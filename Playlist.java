@@ -19,7 +19,6 @@ public class Playlist {
             }
             temp.next = newSong;
         }
-        System.out.println("Lagu \"" + title + "\" berhasil ditambahkan!");
     }
 
     // tampilkan semua lagu
